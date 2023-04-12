@@ -1,2 +1,5 @@
-#ignore to avoid problems
+#ignore django data base file to avoid problems
 db.sqlite3
+
+#hide settings because of 'SECRET_KEY'
+troquons/troquons/settings.py
